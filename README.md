@@ -1,7 +1,10 @@
 # Crypt
+![website status](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fcrypt.marceickhoff.dev)
 ![license](https://img.shields.io/github/license/marceickhoff/crypt)
 
 Simple two-way string encryption and decryption for (relatively) safe password storage.
+
+[Try it now!](https://crypt.marceickhoff.dev)
 
 ## Usage
 
